@@ -1,0 +1,12 @@
+# Site settings
+title: "{ 🧠 → ⌨️ }"
+email: avery.reyna16@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    My always-changing personal website
+baseurl: "/gulf-of-execution" # the subpath of your site, e.g. /blog/
+url: "https://averyreyna.github.io" # the base hostname & protocol for your site
+github_username: averyreyna
+
+# Build settings
+markdown: kramdown
+markdown_ext:  markdown,mkdown,mkdn,mkd,md
